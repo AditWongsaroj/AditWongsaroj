@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AditWongsaroj
+- 👀 I’m interested in web developement, back end programming, and ai neural networks. 
+- 🌱 I’m currently learning Angular and RxJS.
+- 💞️ I’m looking to collaborate on projects.
