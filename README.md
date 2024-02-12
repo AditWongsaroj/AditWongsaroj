@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AditWongsaroj
-- 👀 I’m interested in web developement, back end programming, and ai neural networks. 
+- 👀 I’m interested in web developement, backend programming, and AI neural networks. 
 - 🌱 I’m currently learning ReactJS with NextJS.
 - 💞️ I’m looking to collaborate on projects.
